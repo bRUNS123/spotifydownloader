@@ -1,0 +1,4 @@
+selenium
+yt-dlp
+wakepy
+tk
